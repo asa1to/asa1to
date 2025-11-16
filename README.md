@@ -1,3 +1,10 @@
+<!-- ======== -->
+<!--   Views  -->
+<!-- ======== -->
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=asa1to&color=brightgreen" alt="profile_views" />
+</p>
+
 <!-- ============================================= -->
 <!--   Decorative Horizontal Divider (Top)         -->
 <!-- ============================================= -->
