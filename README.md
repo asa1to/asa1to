@@ -20,7 +20,7 @@
 </h1>
 
 <h3 align="center">
-  Junior Developer on the way from Colombia
+  Fullstack Developer
   <!-- Flag of Colombia -->
   <img height="20" src="https://flagcdn.com/w20/co.png" alt="Flag of Colombia"> &nbsp;
 </h3>
